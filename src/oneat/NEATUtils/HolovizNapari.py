@@ -257,7 +257,7 @@ def cluster_points(
 
 
 def headlesscall(
-    image: np.ndarr,
+    image: np.ndarray,
     imagename: str,
     key_categories: dict,
     event_threshold: float,
